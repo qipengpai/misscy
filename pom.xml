@@ -19,6 +19,7 @@
         <fastjson.version>1.2.47</fastjson.version>
         <commons-collections4.version>4.1</commons-collections4.version>
         <sharding-jdbc>2.0.3</sharding-jdbc>
+        <poi.version>3.17</poi.version>
     </properties>
 
     <modules>
@@ -28,6 +29,7 @@
     </modules>
 
     <developers>
+
         <developer>
             <name>misscy</name>
             <email>1074723451@qq.com</email>
